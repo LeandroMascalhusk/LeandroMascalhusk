@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leandro</h1>
 <h3 align="center">A student who loves to code and learn about news tecnologies</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
 - 🔭 I’m currently working at Controller BMS as Junior Systems Technician.
 - 
