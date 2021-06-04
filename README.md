@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leandro</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leandro Oliveira</h1>
 <h3 align="center">A student who loves to code and learn about news tecnologies</h3>
 
 - 🔭 I’m currently working at Controller BMS as Junior Systems Technician.
 - 
-- 🌱 I’m currently learning MySQL, SQL Server, PHP, JavaScript, CSS and HTML. 
+- 🌱 I’m currently learning MySQL, SQL Server, PostgreQSL, PHP, JavaScript, CSS and HTML. 
 - 
 - 🤔 I’m looking for help with JavaScript and CSS.
 
