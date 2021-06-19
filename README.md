@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at Controller BMS as Junior Systems Technician.
 
-- 🌱 I’m currently learning PHP, Python, JavaScript, CSS and HTML and I have a good experience working with Databases (MySQL, SQL Server and PostgreSQL).
+- 🌱 I’m currently learning PHP, Python, JavaScript, CSS and HTML. I have 3 years of experience working with Databases (MySQL and SQL Server), Git and also creating logic using C# language.
 
 - 🤔 I’m looking for help with JavaScript and a job as a developer.
 
