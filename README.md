@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning PHP, Python, JavaScript, CSS and HTML. I have 3 years of experience working with Databases (MySQL, PostgreSQL and SQL Server), Git and also creating logic using C# language.
 
-- 🤔 I’m looking for help with JavaScript and a job as a developer.
+- 🤔 Looking for a job as a developer.
 
 
 <p align="left">
