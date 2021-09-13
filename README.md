@@ -2,9 +2,9 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leandro Oliveira</h1>
 <h3 align="center">A student who loves to code and learn about news tecnologies</h3>
 
-- 🔭 I’m currently working at Controller BMS as Junior Systems Technician (System Support and Maintenance).
+- 🔭 Working at Controller BMS as Junior Systems Technician (System Support and Maintenance).
 
-- 🌱 I’m currently learning Python, JavaScript, CSS and HTML. I have 3 years of experience working with Databases (MySQL, PostgreSQL and SQL Server), Git and with maintenance on systems using C# language and .Net.
+- 🌱 I’m currently learning JavaScript, CSS and HTML. I have 2,5 years of experience working with Databases (MySQL and SQL Server), Git and with maintenance on systems using C# language and .Net.
 
 - 🤔 Looking for a job as a developer.
 
