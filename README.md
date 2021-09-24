@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 Working at Controller BMS as Junior Systems Technician (System Support and Maintenance).
 
-- 🌱 I’m currently studying JavaScript, CSS and HTML. I have 2,5 years of experience working with Databases (MySQL and SQL Server), Git and with maintenance on systems using C# language and .Net.
+- 🌱 I’m currently studying JavaScript, CSS and HTML. I have 2,5 years of experience working with Databases (MySQL and SQL Server), Git and with maintenance on systems using C# languge e JavaScript. 
 
  <div>
   <a href="https://github.com/LeandroMascalhusk">
