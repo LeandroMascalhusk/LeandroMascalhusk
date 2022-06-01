@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> I'm Leandro Oliveira</h1>
+<h1 align="center">Hi! I'm Leandro, a Software Developer with more than 4 years of experience in frontend projects </h1>
 <h3 align="center">A student who loves to code and learn about news tecnologies</h3>
 
 - 👨🏻‍💻 Working at Alpar as Front-End Developer (ServiceNow Developer).
