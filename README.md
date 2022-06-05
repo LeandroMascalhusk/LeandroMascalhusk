@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi! I'm Leandro, a Software Developer</h1>
-<h3 align="center">A developer who loves coded and dogs 👨🏻‍💻🐶</h3>
+<h3 align="center">A developer who loves code and dogs 👨🏻‍💻🐶</h3>
 
-- 👨🏻‍💻 Working at Alpar as Front-End Developer (ServiceNow Developer).
+- 👨🏻‍💻 Working at Alpar as Front-End Developer.
 
 - 🌱 I have good experience and knowledge (over 3 years) in C#, Javascript, Node.js, SQL Server and MySQL development.
 I also have solid knowledge in Bootstrap and Angular.
