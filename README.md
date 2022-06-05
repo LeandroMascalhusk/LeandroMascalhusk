@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi! I'm Leandro, a Software Developer with more than 4 years of experience in frontend projects </h1>
-<h3 align="center">A student who loves to code and learn about news tecnologies</h3>
+<h1 align="center">Hi! I'm Leandro, a Software Developer</h1>
+<h3 align="center">A developer who loves coded and dogs 👨🏻‍💻🐶</h3>
 
 - 👨🏻‍💻 Working at Alpar as Front-End Developer (ServiceNow Developer).
 
