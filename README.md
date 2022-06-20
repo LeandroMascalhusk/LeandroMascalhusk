@@ -7,7 +7,7 @@
 - 🌱 I have good experience and knowledge (over 3 years) in C#, Javascript, Node.js, SQL Server and MySQL development.
 I also have solid knowledge in Bootstrap and Angular.
 I am currently focusing my free time on improving my knowledge of VueJS and ReactJS.
-I work as a Full ServiceNow Developer at Alparservice.
+I work as a ServiceNow Developer at Alparservice.
 
 ##
 
