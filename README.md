@@ -4,9 +4,9 @@
 
 - 👨🏻‍💻 Working at Alpar as Front-End Developer.
 
-- 🌱 I have good experience and knowledge (over 3 years) in C#, Javascript, Node.js, SQL Server and MySQL development.
-I also have solid knowledge in Bootstrap and Angular.
-I am currently focusing my free time on improving my knowledge of VueJS and ReactJS.
+- 🌱 Good experience and knowledge (over 3 years) in C#, Javascript, Node.js, SQL Server and MySQL development.
+I also have solid knowledge in Bootstrap, React and Angular.
+I am currently focusing my free time on improving my knowledge of VueJS.
 I work as a ServiceNow Developer at Alparservice.
 
 ##
